@@ -1,0 +1,26 @@
+{
+  "name": "standard-check-in-builder",
+  "version": "1.0.0",
+  "description": "Application to provide the methods required to completely create and configure a check-in application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "standard",
+    "check-in",
+    "application",
+    "express"
+  ],
+  "author": "Curtis Rodgers",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "moment": "^2.13.0",
+    "msnodesqlv8": "^0.1.45",
+    "ncp": "^2.0.0",
+    "node-uuid": "^1.4.7"
+  }
+}
